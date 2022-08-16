@@ -1,8 +1,8 @@
-### Oi, Eu Sou Lucas Campos, Desenvolvedor Front-End. 👋
+### <i>Oi, Eu Sou <b>Lucas Campos</b>, Desenvolvedor Front-End.</i> 👋
 ##
 <!--- **luucascaampos/luucascaampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
-- 🔭 Sou Desenvolvedor Front-END, estudando linguagens como PHP é MySQL, SQL, JavaScript e React-Native.
-- 🌱 Me Siga.
+- 🔭 <i>Sou Desenvolvedor Front-END, estudando linguagens como PHP é MySQL, SQL, JavaScript e React-Native.</i>
+- 🌱 <i>Me Siga.</i>
 - 👯 ..
 - ##
 <div align="center">
@@ -22,7 +22,7 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   --->
 </div>
-  ##
+  <br/>
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=#FFE4E1" target="_blank"></a>
