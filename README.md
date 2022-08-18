@@ -2,9 +2,9 @@
 ##
 <!--- **luucascaampos/luucascaampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 - 🔭 <i>Sou Desenvolvedor Front-End, estudante de linguagens como PHP é MySQL, SQL, JavaScript e React-Native.</i>
-- 🌱 <i>Me Siga aqui no GitHub</i>
+- 🌱 ..
 - 🔭 <i>Em Breve, Estudos em Linguagem Mobile com Swift</i>
-- 👯 ..
+- 👯 <i>Me Siga aqui no GitHub</i>
 - 
 - ##
 <div align="center">
