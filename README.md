@@ -1,9 +1,11 @@
-### <i>Oi, Eu Sou <b>Lucas Campos</b>, Desenvolvedor Front-End.</i> 👋
+### <i>Oi, Eu Sou Lucas Campos, Desenvolvedor Junior a caminho do Senior - Front-End.</i> 👋
 ##
 <!--- **luucascaampos/luucascaampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 - 🔭 <i>Sou Desenvolvedor Front-End, estudante de linguagens como PHP é MySQL, SQL, JavaScript e React-Native.</i>
-- 🌱 <i>Me Siga.</i>
+- 🌱 <i>Me Siga aqui no GitHub</i>
+- 🔭 <i>Em Breve, Estudos em Linguagem Mobile com Swift</i>
 - 👯 ..
+- 
 - ##
 <div align="center">
   <a href="https://github.com/luucascaampos">
