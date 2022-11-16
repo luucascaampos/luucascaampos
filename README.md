@@ -1,4 +1,4 @@
-### <i>Oi, Eu Sou Lucas Campos! Programador Junior a caminho do Senior - Front-End.</i> 👋
+### <i>Oi, Eu Sou Lucas Campos! Programador em Desenvolvimento a caminho do Senior - Front-End.</i> 👋
 ##
 <!--- **luucascaampos/luucascaampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 - 🔭 <i>Sou Programador</i>
